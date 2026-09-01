@@ -11,13 +11,7 @@ def readData():
         count += 1
 
         avg = total / count
+    
     print("%.4f"%avg)
             
-        
-def main ():
-    readData()
 
-
-
-if __name__ == "__main__":
-    main()
